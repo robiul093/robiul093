@@ -4,8 +4,15 @@
 
 🚀 A passionate Frontend Developer with a focus on **React**, **Next.js**, and modern web technologies.  
 🎓 Final-year BSc in Mathematics, National University  
-🌐 [Portfolio Website](https://portfolio-robiul.netlify.app)  
-📫 Email: [robihasan093@gmail.com](mailto:robihasan093@gmail.com)
+
+---
+
+## 📇 Contact & Links
+
+- 📧 **Email:** robihasan093@gmail.com  
+- 🌐 **Portfolio:** [portfolio-robiul.netlify.app](https://portfolio-robiul.netlify.app)  
+- 💼 **LinkedIn:** [linkedin.com/in/robiul-hasan](https://linkedin.com/in/robiul-hasan)  
+- 🐙 **GitHub:** [github.com/robiul093](https://github.com/robiul093)
 
 ---
 
@@ -65,14 +72,6 @@ To become a proficient full-stack developer, contribute to impactful projects, a
 ## 📈 GitHub Stats
 
 ![Robiul's GitHub stats](https://github-readme-stats.vercel.app/api?username=robiul093&show_icons=true&theme=radical)
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://linkedin.com/in/robiul-hasan)  
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/robiul093)  
 
 ---
 
