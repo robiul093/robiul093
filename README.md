@@ -5,7 +5,7 @@
 🚀 A passionate Frontend Developer with a focus on **React**, **Next.js**, and modern web technologies.  
 🎓 Final-year BSc in Mathematics, National University  
 
----
+-----
 
 ## 📇 Contact & Links
 
